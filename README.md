@@ -18,12 +18,12 @@ cd Gestor-Inventarios
 npm install
 ```
 ### Ejecución del Servidor y Cliente
-# 1.terminal
+# 1.terminal backend
 ```bash
 cd backend
 node app.js
 ```
-# 2.Terminal
+# 2.Terminal frontend
 ```bash
 cd frontend
 node npm start
